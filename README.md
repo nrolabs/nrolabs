@@ -46,4 +46,4 @@ the protocol library). The NROLABS name, logo, and the proprietary iSDR applicat
 
 ---
 
-<p align="center"><sub>© NROLABS — Isak Paulo de Andrade Ruas. NROLABS® is a registered trademark (INPI 928918076).</sub></p>
+<p align="center"><sub>© NROLABS — Isak Paulo de Andrade Ruas. NROLABS® is a registered trademark (INPI 928918076, 937683701).</sub></p>
